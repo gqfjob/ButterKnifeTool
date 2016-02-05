@@ -1,0 +1,3 @@
+@Bind(R.id.top_commit) Button top_commit;
+@Bind(R.id.top_text) TextView top_text;
+@Bind(R.id.top_back) Button top_back;

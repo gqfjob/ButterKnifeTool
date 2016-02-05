@@ -1,0 +1,8 @@
+@Bind(R.id.textView) TextView textView;
+@Bind(R.id.loading_layout) LinearLayout loading_layout;
+@Bind(R.id.download_img) ImageView download_img;
+@Bind(R.id.answer_but) Button answer_but;
+@Bind(R.id.progressBar) ProgressBar progressBar;
+@Bind(R.id.head) include head;
+@Bind(R.id.bottom) LinearLayout bottom;
+@Bind(R.id.liner_bg1) LinearLayout liner_bg1;
